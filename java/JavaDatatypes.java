@@ -30,8 +30,6 @@ public class JavaDatatypes {
             catch(Exception e)
             {
                 System.out.println(sc.next()+" can't be fitted anywhere.");
-            }finally{
-                sc.close();
             }
 
         }
